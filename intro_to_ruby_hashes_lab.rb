@@ -30,7 +30,7 @@ def read_from_hash(hash, key)
   hash[key]
 end
 
-counter = 0 
+
 def update_counting_hash(hash, key)
   if hash[key]
     counter +=1 
