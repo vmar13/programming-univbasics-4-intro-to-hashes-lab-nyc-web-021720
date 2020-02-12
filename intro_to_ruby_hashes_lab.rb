@@ -22,7 +22,7 @@ end
 
 def my_hash_creator(key, value)
   hash = {
-    :name => 'Grace Hopper'
+    :key => value
   }
 end
 
